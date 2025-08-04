@@ -10,6 +10,7 @@ int main()
 		
 	}
 	printf("sum of the  digit is %d",sum);
+	printf("thank you");
 	return 0;
 }
 
