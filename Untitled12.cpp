@@ -11,6 +11,7 @@ int main()
 	}
 	printf("sum of the  digit is %d",sum);
 	printf("thank you");
+	printf("Name:Prajakta Vikas Salunkhe");
 	return 0;
 }
 
